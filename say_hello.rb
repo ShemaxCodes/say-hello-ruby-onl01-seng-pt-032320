@@ -1,4 +1,4 @@
-def say_hello(name = Jashema)
+def say_hello(name = jashema)
   puts "Hello #{name}!"
 end
 
